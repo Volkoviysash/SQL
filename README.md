@@ -26,7 +26,7 @@ Using just the information in the database, task is to solve the mystery.
     2. log.sql - with all sql queries and comments
     3. answer.txt - with answers
 
-#### What is your solution plan
+#### What is your solution plan?
     1. To check out what happened in Fyftyville, Humphrey Street on July 28, 2021
     2. To interview witnesses
     3. Check all versions
@@ -34,7 +34,7 @@ Using just the information in the database, task is to solve the mystery.
     5. Exclude suspects who have an alibi
     6. To find the thief
 
-#### What tables are in the db
+#### What tables are in the db?
     1. airports
     2. atm_transactions
     3. bank_account
