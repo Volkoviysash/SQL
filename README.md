@@ -5,9 +5,9 @@ The Duck has been stolen! The town of Fiftyville has called upon you to solve th
 
 
 ## The goal is to identify
- - Who the thief is,
- - What city the thief escaped to, and
- - Who the thief’s accomplice is who helped them escape
+ - Who the thief is?
+ - What city the thief escaped to?
+ - Who the thief’s accomplice is, who helped them escape?
  
 
 
